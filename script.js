@@ -6,7 +6,7 @@ const coinsDisplay = document.getElementById('coins');
 const spinButton = document.getElementById('spin');
 
 let coins = 100;
-const symbols = ['🍒', '🍋', '🔔', '⭐', '🍉', '🍇'];
+const symbols = ['🍒', '🍋', '🔔', '⭐', '🍉', '🍇', '7'];
 
 spinButton.addEventListener('click', spin);
 
